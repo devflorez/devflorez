@@ -4,9 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devflorez&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devflorez)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)
 
 ---
 
